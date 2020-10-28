@@ -1,0 +1,19 @@
+{
+  "name": "drawit",
+  "version": "1.0.0",
+  "description": "A party game where teams of 2 have to answer a question, then draw the answer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wipeautcrafter/DrawIt.git"
+  },
+  "author": "WIPEAUT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wipeautcrafter/DrawIt/issues"
+  },
+  "homepage": "https://github.com/wipeautcrafter/DrawIt#readme"
+}
